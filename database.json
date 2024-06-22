@@ -1,0 +1,24 @@
+{
+  "1": {
+    "chatMessages": {},
+    "quizAnswers": {}
+  },
+  "12": {
+    "chatMessages": {},
+    "quizAnswers": {}
+  },
+  "22": {
+    "chatMessages": {},
+    "quizAnswers": {}
+  },
+  "11111": {
+    "chatMessages": {},
+    "quizAnswers": {}
+  },
+  "defaultRoom": {
+    "chatMessages": [
+      "1234"
+    ],
+    "quizAnswers": []
+  }
+}
